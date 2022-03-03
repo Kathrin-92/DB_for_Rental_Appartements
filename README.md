@@ -140,30 +140,6 @@ After you've successfully installed your SQL workspace, open your chosen MySQL c
 * Number of corresponding entries (test data): 404
 * Number of test queries: 29   
 * Database size: 640 KiB
-* Rows inserted by table incl. Insert Time: 
-
-Table | # rows inserted | insert time
-
-bookings | 25 | 1356.35
-contact_info | 20 | 1459.29
-Invoice | 25 | 1452.79
-member_address | 23 | 1468.13
-city | 25 | 796.28
-member | 20 | 765.69
-Accommodation | 21 | 770.24
-login_info | 20 | 953.94
-coupons | 20 | 752.44
-payment_methods | 20 | 724.77
-social_media | 20 | 576.32
-payments_to_host | 25 | 491.39
-host | 10 | 443.76
-accommodation_address | 21 | 201.71
-cancellations | 8 | 191.71
-experiences | 20 | 154.99
-ratings | 20 | 154.61
-pictures | 20 | 144.70
-equipment_features | 20 | 107.40
-instructor | 20 | 87.64
 
 
 ## Contributing 
